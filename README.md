@@ -1,4 +1,4 @@
-Node.js + PostgreSQL Task
+Node.js + PostgreSQL
 
 API:
 1. /users POST - create user with the next fields: first_name (required, only letters),
